@@ -3,4 +3,9 @@ brian:
   last_name: "Childress"
   email: "bchildres@gmail.com"
   profile_name: "brianchildress"
-  encrypted_password: "password"
+
+erica:
+  first_name: "Erica"
+  last_name: "Childress"
+  email: "elangenbahn@gmail.com"
+  profile_name: "echildress"
