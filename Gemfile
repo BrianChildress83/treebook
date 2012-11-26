@@ -14,7 +14,7 @@ group :development, :test do
 end
 
 group :productino do
-	gem 'pg'
+	gem "pg"
 end
 
 # Gems used only for assets and not required
